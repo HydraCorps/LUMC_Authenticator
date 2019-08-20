@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <WinAuth>
-	<version>3.6.2</version>
+	<version>3.6.3</version>
 	<released>2017-10-24</released>
 	<url>https://github.com/winauth/winauth/releases/download/3.6.2/WinAuth.zip</url>
 	<url35>https://github.com/winauth/winauth/releases/download/3.6.2/WinAuth-NET35.zip</url35>
